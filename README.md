@@ -1,3 +1,1 @@
-# AltiumLibControlAPI
-
-API интерфейса взаимодействия системы
+Flask REST API
